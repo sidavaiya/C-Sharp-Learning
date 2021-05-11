@@ -1,0 +1,12 @@
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\bin\Debug\netcoreapp3.1\BacisSyntax.exe
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\bin\Debug\netcoreapp3.1\BacisSyntax.deps.json
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\bin\Debug\netcoreapp3.1\BacisSyntax.runtimeconfig.json
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\bin\Debug\netcoreapp3.1\BacisSyntax.runtimeconfig.dev.json
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\bin\Debug\netcoreapp3.1\BacisSyntax.dll
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\bin\Debug\netcoreapp3.1\BacisSyntax.pdb
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcoreapp3.1\BacisSyntax.AssemblyInfoInputs.cache
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcoreapp3.1\BacisSyntax.AssemblyInfo.cs
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcoreapp3.1\BacisSyntax.csproj.CoreCompileInputs.cache
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcoreapp3.1\BacisSyntax.dll
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcoreapp3.1\BacisSyntax.pdb
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcoreapp3.1\BacisSyntax.genruntimeconfig.cache
