@@ -10,3 +10,4 @@ C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcor
 C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcoreapp3.1\BacisSyntax.dll
 C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcoreapp3.1\BacisSyntax.pdb
 C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcoreapp3.1\BacisSyntax.genruntimeconfig.cache
+C:\Users\SID\Desktop\Django Course\C-Sharp-Learning\BacisSyntax\obj\Debug\netcoreapp3.1\BacisSyntax.csprojAssemblyReference.cache
