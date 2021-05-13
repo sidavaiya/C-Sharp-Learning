@@ -6,7 +6,7 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            /*
+            
             //Declaring a variable
             int x;
             int y;
@@ -18,7 +18,7 @@ namespace Variables
             //printing sum of x and y 
             Console.WriteLine(x + y);
             Console.ReadLine();
-            */
+            
 
             Console.WriteLine("What is your name?");
 
@@ -38,3 +38,17 @@ namespace Variables
         }
     }
 }
+
+/*
+ OUTPUT
+
+6
+
+What is your name?
+Type your first name :
+Siddharth
+Type your last name :
+Avaiya
+Hello! Siddharth Avaiya
+
+ */
