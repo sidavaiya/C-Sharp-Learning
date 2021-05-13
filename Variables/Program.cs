@@ -23,12 +23,12 @@ namespace Variables
             Console.WriteLine("What is your name?");
 
             //Using ReadLine(), storing user input into variable myFirstname
-            Console.WriteLine("Type your first name : ");
+            Console.Write("Type your first name : ");
             String myFirstname;
             myFirstname = Console.ReadLine();
 
             //Using ReadLine(), storing user input into variable mylastname    
-            Console.WriteLine("Type your last name :");
+            Console.Write("Type your last name :");
             String myLastname;
             myLastname = Console.ReadLine();
 
@@ -45,10 +45,8 @@ namespace Variables
 6
 
 What is your name?
-Type your first name :
-Siddharth
-Type your last name :
-Avaiya
+Type your first name : Siddharth
+Type your last name :Avaiya
 Hello! Siddharth Avaiya
 
- */
+*/
